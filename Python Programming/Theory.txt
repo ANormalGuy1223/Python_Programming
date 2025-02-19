@@ -1,0 +1,74 @@
+IDLE : Integrated Development Learning Environment
+
+IDE : Integrated Development Environment(VS Code - Virtual Studio Code)
+
+------------------------------------------------------------------
+
+print() : print is an function
+    using of print we can display appropriate messages on the console screen.
+------------------------------------------------------------------
+end=" " : end parameter which is in use in print function with specific space  or symbols
+------------------------------------------------------------------
+variable : variable a name which can store a value
+------------------------------------------------------------------
+format function : print(f"string message {varname}")
+------------------------------------------------------------------
+expected output :  10 + 20 = 30 
+------------------------------------------------------------------
+Static Values vs Dynamic Values
+
+    Static Value: which have fix value and we cant change it at run time
+    Dynamic Value: it will accept value at run time
+
+    input(): it wiwll accept value from user at run time   
+        syntax: input(promt message)
+------------------------------------------------------------------
+note input() by default input function accept value in string format.
+    if we want to accept value in integer value we have to explict convert into specific data type.
+------------------------------------------------------------------
+operators: to perform specific operations at the time we are using some symbols
+    that symbols is known as operators
+
+1) arithematic operators:-
+        + - * / % //(floor division) **(exponetiion)
+    
+2) assignment operator:-
+        =
+
+        shorthand operator:-
+            += -= *=
+
+3) memberhip operator:-
+
+        in
+        not in
+
+4) identity operator:-
+        is
+        is not
+
+------------------------------------------------------------------
+conditional statements:-
+    in python, there are 4 conditional statements.
+
+    1)if
+    2)if...else
+    3)elif
+    4)nested if
+
+
+------------------------------------------------------------------
+
+syntax:
+
+if condition:
+    if condition: 
+        true statement
+    else:
+        false statement
+else: 
+    if condition:
+        true statement
+    else:
+        false statement
+
